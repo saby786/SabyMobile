@@ -24,6 +24,7 @@ ArrayList<String> arrayList = new ArrayList<>();
 ListView lv;
 ArrayAdapter aa ;
 String saby;
+String Prabha="null";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
